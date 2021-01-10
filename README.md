@@ -1,4 +1,4 @@
-# AIDANTOKEN
+# Overview
 
 This was my first try at building an ETC20 token. 
 
